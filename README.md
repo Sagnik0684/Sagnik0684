@@ -1,7 +1,6 @@
-[![MasterHead]([https://gifdb.com/images/high/anime-banner-gif-file-2004kb-hqn9bbyy6jotltys.gif])]
+
 <h1 align="center">Hi 👋, I'm Sagnik Biswas</h1>
 <h3 align="center">A passionate student learning frontend development and full stack.</h3>
-<img align="right" alt="Coding" width="400" src="[https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif]”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagnik0684&label=Profile%20views&color=0e75b6&style=flat" alt="sagnik0684" /> </p>
 
