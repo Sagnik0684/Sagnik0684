@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sagnik0684](https://github.com/Sagnik0684)
 
-- 💬 Ask me about **C,Python,HTML,CSS,JavaScript**
+- 💬 Ask me about **C,C++,Python,HTML,CSS,JavaScript**
 
 - 📫 How to reach me **sagnik0684@gmail.com**
 
