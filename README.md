@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **sagnik0684@gmail.com**
 
-- ⚡ Fun fact **I think i knew everything, but i was wrong.😂**
+- ⚡ Fun fact **I thought i knew everything, but i was wrong.😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
